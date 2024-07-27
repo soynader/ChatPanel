@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'ChatPanel'),
 
     /*
     |--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://chatpanel.up.railway.app'),
+    'url' => env('APP_URL', 'https://panelchat.up.railway.app'),
     //'url' => env('APP_URL', 'https://127.0.0.1:8000'),
 
     /*
