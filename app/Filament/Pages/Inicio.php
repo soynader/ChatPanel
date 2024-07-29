@@ -17,7 +17,7 @@ class Inicio extends Page
     {
         $this->content = '
         <div>
-            <h1>Guía de Uso para crear ChatBots de Whatsapp. otra vez como carajos</h1>
+            <h1>Guía de Uso para crear ChatBots de Whatsapp.</h1>
                 </br>
             <p>🔷 En esta plataforma puedes crear tus propios chatbots autorespondedores para WhatsApp.</p>
                 </br>
